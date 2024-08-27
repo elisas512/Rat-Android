@@ -1,11 +1,18 @@
+
+
 # Best Android Penetration Testing Tools
 
+* CraxsRat V7.4
+* Spyroid VIP Cracked
+* Chinese Rat @銘羊天下
+* Chinese-Rat 破解版 XMR85
+* CraxsRat v5.1
+* SpyNoteX Cracked
 * Rat-Android
 * Collection Rat Android
-* page to share a collection of android rat,
+* PekkaRat
 * BRATA Android RAT
 * Cobra Rat Cracked
-* CraxsRat V7.4
 * CraxsRat V7
 * CraxsRat_V6.5
 * CraxsRat_V6.7
@@ -16,8 +23,10 @@
 * Fraternidade RAT
 * MedusaRat v8.5
 
-# Best Android Penetration Testing Tools, Do not use these tools on devices you do not own. Using them on devices without consent is a crime. I have gathered the top Android Rats # # for testing and analysis.
+* Best Android Penetration Testing Tools, Do not use these tools on devices you do not own. Using them on devices without consent is a crime. I have gathered the top Android Rats # * for testing and analysis.
 
-
-# link: https://www.mediafire.com/folder/tnx6kude7kg06/Android
-
+# Paste
+* link: https://www.mediafire.com/folder/tnx6kude7kg06/Android
+# Torrent 19 Best Rat Android
+* Link: 
+* https://www.mediafire.com/file/3qyscxuyabgq9kj/Collection__19_Rat_Android_Cracked.torrent/file
