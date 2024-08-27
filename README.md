@@ -1,5 +1,3 @@
-
-
 # Best Android Penetration Testing Tools
 
 * CraxsRat V7.4
