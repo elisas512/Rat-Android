@@ -10,6 +10,8 @@
 * Collection Rat Android
 * PekkaRat
 * BRATA Android RAT
+* Mobihok V6
+* 887 Rat Android / Windows V 1.2.4
 * Cobra Rat Cracked
 * CraxsRat V7
 * CraxsRat_V6.5
