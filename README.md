@@ -2,6 +2,7 @@
 
 * CraxsRat V7.4
 * Spyroid VIP Cracked
+* EverSpy V2 Crack Fixed Version
 * Chinese Rat @銘羊天下
 * Chinese-Rat 破解版 XMR85
 * CraxsRat v5.1
@@ -10,7 +11,6 @@
 * Scorpion Android Rat
 * Cypher_Rat_Cracked
 * Rat-Android
-* Collection Rat Android
 * PekkaRat
 * BRATA Android RAT
 * Mobihok V6
@@ -37,7 +37,8 @@
 * Link: https://mega.nz/folder/VvclgJLZ#uGHGEY3iTCbiDKg4mb_pIw
 
 
-# Torrent 19 Best Rat Android
-* Link: 
-* https://www.4shared.com/s/fJzGwj01Tfa
+# Torrent 25 Best Rat Android
+* Link:
+* lINK : https://www.4shared.com/s/fQGAxGg0sfa
+  
 
