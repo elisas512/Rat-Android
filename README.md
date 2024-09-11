@@ -6,6 +6,9 @@
 * Chinese-Rat 破解版 XMR85
 * CraxsRat v5.1
 * SpyNoteX Cracked
+* SpyNote_v.8.6_G
+* Scorpion Android Rat
+* Cypher_Rat_Cracked
 * Rat-Android
 * Collection Rat Android
 * PekkaRat
@@ -31,8 +34,10 @@
 
 
 * link: https://www.mediafire.com/folder/tnx6kude7kg06/Android
+* Link: https://mega.nz/folder/VvclgJLZ#uGHGEY3iTCbiDKg4mb_pIw
 
 
 # Torrent 19 Best Rat Android
 * Link: 
 * https://www.4shared.com/s/fJzGwj01Tfa
+
