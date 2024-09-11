@@ -38,7 +38,6 @@
 
 
 # Torrent 25 Best Rat Android
-* Link:
-* lINK : https://www.4shared.com/s/fQGAxGg0sfa
+* Link: https://www.4shared.com/s/fQGAxGg0sfa
   
 
