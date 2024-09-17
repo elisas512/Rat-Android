@@ -1,16 +1,21 @@
-# Best Android Penetration Testing Tools
+# Best Android Penetration Testing Tools, Remote Administration Tool (RAT)  for Android
 
 * CraxsRat V7.4
 * Spyroid VIP Cracked
 * EverSpy V2 Crack Fixed Version
+* EverSpy Ultimate
+* G700-V5 Pro Cracked
+* Ousofts v2 Cracked
+* Tianxian RAT
 * Chinese Rat @銘羊天下
+* Chinese Rat
 * Chinese-Rat 破解版 XMR85
 * CraxsRat v5.1
 * SpyNoteX Cracked
 * SpyNote_v.8.6_G
 * Scorpion Android Rat
 * Cypher_Rat_Cracked
-* Rat-Android
+* BRATS Cracked
 * PekkaRat
 * BRATA Android RAT
 * Mobihok V6
@@ -41,7 +46,7 @@
 
 
 
-# Torrent 25 Best Rat Android
+# Torrent 30 Best Rat Android
 * Link: https://www.4shared.com/s/fQGAxGg0sfa
   
 
