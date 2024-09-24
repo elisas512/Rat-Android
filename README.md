@@ -1,6 +1,5 @@
 # Best Android Penetration Testing Tools, Remote Administration Tool (RAT) for Android
 
-
 * CraxsRat V7.4
 * Spyroid VIP Cracked
 * EverSpy V2 Crack Fixed Version
@@ -34,13 +33,11 @@
 
 
 
-
 * Best Android Penetration Testing Tools, Do not use these tools on devices you do not own. Using them on devices without consent is a crime. I have gathered the top Android Rats # * for testing and analysis.
 
 
 
 # Paste
-
 
 
 * link: https://www.mediafire.com/folder/tnx6kude7kg06/Android
