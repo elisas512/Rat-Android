@@ -12,10 +12,16 @@
 * Chinese Rat
 * Chinese-Rat 破解版 XMR85
 * CraxsRat v5.1
+* SpyNote V7
+* Spymax V4
+* Spymax V5
+* Mobihok V4
 * SpyNoteX Cracked
 * SpyNote_v.8.6_G
 * Scorpion Android Rat
 * Cypher_Rat_Cracked
+* Cypher Rat V3
+* Cypher 2024
 * BRATS Cracked
 * PekkaRat
 * BRATA Android RAT
@@ -47,5 +53,7 @@
 
 # Torrent 30 Best Rat Android
 * Link: https://www.4shared.com/s/fQGAxGg0sfa
+
+
   
 
