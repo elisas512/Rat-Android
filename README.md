@@ -1,45 +1,67 @@
 # Best Android Penetration Testing Tools, Remote Administration Tool (RAT) for Android
 
-
-* CraxsRat V7.4
-* Spyroid VIP Cracked
-* EverSpy V2 Crack Fixed Version
-* EverSpy Ultimate
-* G700-V5 Pro Cracked
-* Ousofts v2 Cracked
-* Tianxian RAT
-* Chinese Rat @銘羊天下
+# Pack 1
+* 888 Rat V 1.2.4
+* Brata Rat
 * Chinese Rat
-* Chinese-Rat 破解版 XMR85
-* CraxsRat v5.1
-* SpyNote V7
-* Spymax V4
-* Spymax V5
-* Mobihok V4
-* SpyNoteX Cracked
-* SpyNote_v.8.6_G
-* Scorpion Android Rat
-* Cypher_Rat_Cracked
-* Cypher Rat V3
-* Cypher 2024
-* BRATS Cracked
-* PekkaRat
-* BRATA Android RAT
-* Mobihok V6
-* 887 Rat Android / Windows V 1.2.4
-* Cobra Rat Cracked
-* CraxsRat V7
-* CraxsRat_V6.5
-* CraxsRat_V6.7
-* CraxsRat_V7
-* CraxsRat-V3
-* CraxsRat-V6
+* Chinese Rat V2
+* Chinese Rat XMR85
+* Cobra Rat
+
+# Pack 2
+* Cobras Rat
+* CraxsRat V 5.1
+* CraxsRat V 6.8
+* CraxsRat V 7.3
+* CraxsRat V 7.4
+* CraxsRat V 7.6
+
+# Pack 3
+* CraxsRat VIP
+* CraxsRat V 3.0
+* CraxsRat V 6.5
+* CraxsRat V 6.6
+* CraxsRat V 6.7
+* Cypher Rat 2024
+
+# Pack 4
+* Medusa Rat 8.5
+* Mobihok V 4
+* Mobihok V 6
+* Pekka Rat
+* SpyMax V 4
+* Spymax V 5
+
+
+# Pack 5
+* SpyNote V 7
+* SpyNote X
+* SpyNote V 8.6 G
+* SpyNote V 5
+* SpyRoid Vip
+* WH Rat
+
+
+# Pack 6
+* Cypher Rat V 3
 * EagleSpy
-* Fraternidade RAT
-* MedusaRat v8.5
+* EagleSpy V 3
+* EverSpy V 2
+* EverSpy V 3
+* SpyRoid Vip
+* G700 V 5
+* G700 Pro
+* Tianxian Rat
+* SpyRoid Rat V 7.7
 
 
-* Best Android Penetration Testing Tools, Do not use these tools on devices you do not own. Using them on devices without consent is a crime. I have gathered the top Android Rats # * for testing and analysis.
+
+
+
+
+
+
+# Best Android Penetration Testing Tools, Do not use these tools on devices you do not own. Using them on devices without consent is a crime. I have gathered the top Android Rats # # for testing and analysis.
 
 
 # Paste
