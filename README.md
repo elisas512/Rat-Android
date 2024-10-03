@@ -69,9 +69,6 @@
 * link: https://www.mediafire.com/folder/tnx6kude7kg06/Android
 
 
-* Link: https://mega.nz/folder/VvclgJLZ#uGHGEY3iTCbiDKg4mb_pIw
-
-
 
 
 # Torrent 40 Best Rat Android
